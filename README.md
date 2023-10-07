@@ -5,6 +5,8 @@ we propose a robust machine learning workflow for the inverse design of high the
 ![Workflow](https://github.com/SJTU-MI/Inverse_Design_of_Polymers/blob/main/Workflow.png)
 ## Installation
 
+### Files loading and environment setup:
+
 ### Try the desired parts of the project:
 
 ## Authors
