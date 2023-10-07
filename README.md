@@ -16,6 +16,9 @@ we propose a robust machine learning workflow for the inverse design of high the
 | **VERSION** | V1.0 / October,2023                               |
 | **EMAILS**  | shenghong.ju@sjtu.edu.cn                         |
 
+## Related projects
+- pymoo(Multi-objective Optimization in Python)[[Link]](https://github.com/anyoptimization/pymoo)
+- botorch(Bayesian optimization in PyTorch)[[Link]](https://github.com/pytorch/botorch)
 
 ## Attribution
 
