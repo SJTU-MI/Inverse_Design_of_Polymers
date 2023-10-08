@@ -19,7 +19,19 @@ conda env create -f environment.yml
 conda activate IDPoly
 ````
 ### Try the desired parts of the project:
-
+#### Code in the sources folder
+**Cal_TC.py**: A script for calculating thermal conductivity of polymers, here predicted by a DNN surrogate model <br>
+**Cal_SA.py**: A script for evaluating the synthetic accessibility scores of polymers <br>
+**utility.py**: Some utility functions <br>
+#### Code in the results folder
+**MOEA_candidates.csv**: Polymers designed by MOEA <br>
+**MOEA_HV.csv**: Convergence of the MOEA based on hypervolumes <br>
+**MOBO_candidates.csv**: Polymers designed by MOBO <br>
+**MOBO_HV.csv**: Convergence of the MOBO based on hypervolumes <br>
+#### Case Studies
+**MOEA_Case.ipynb**: A case for MOEA <br>
+**MOBO_Case.ipynb**: A case for MOBO <br>
+**visualization.ipynb**: Visualization of results for MOEA and MOBO cases <br>
 ## Authors
 
 | **AUTHORS** |Xiang Huang, Shenghong Ju            |
