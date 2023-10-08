@@ -7,6 +7,17 @@ we propose a robust machine learning workflow for the inverse design of high the
 
 ### Files loading and environment setup:
 
+To download, clone this repository:<br>
+````
+git clone https://github.com/SJTU-MI/Inverse_Design_of_Polymers.git
+````
+
+To run most code in this repository, the relevant anaconda environment can be installed from environment.yml. To build this environment, run：<br>
+````
+cd ./Inverse_Design_of_Polymers
+conda env create -f environment.yml
+conda activate IDPoly
+````
 ### Try the desired parts of the project:
 
 ## Authors
