@@ -1,0 +1,23 @@
+name: IDPoly
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.3
+  - numpy=1.21.2
+  - pandas=0.24.2
+  - scipy=1.7.1
+  - scikit-learn=1.0.2
+  - matplotlib=3.3.2
+  - joblib=1.1.0
+  -rdkit=2023.03.3
+  - jupyter
+  - pip
+  - pip:
+    - gpytorch==1.11
+    - torch==1.12.1
+    - torchvision==0.13.1
+    - torchaudio==0.12.1
+    - botorch==0.9.2
+    - tensorflow==2.13.0
+    - pymoo==0.6.0.1
