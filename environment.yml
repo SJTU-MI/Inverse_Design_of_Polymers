@@ -10,7 +10,7 @@ dependencies:
   - scikit-learn=1.0.2
   - matplotlib=3.3.2
   - joblib=1.1.0
-  -rdkit=2023.03.3
+  - rdkit=2023.03.3
   - jupyter
   - pip
   - pip:
