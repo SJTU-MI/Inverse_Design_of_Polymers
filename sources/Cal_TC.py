@@ -231,30 +231,14 @@ def pre_TC(chrom_X,model,selected_keys,chromosome,Smi=True):
         return np.round(model.predict(pd.DataFrame(my_finger).T, verbose=0)[0][0],3)
 
 
-# In[35]:
 
-
+'''
 x_arr=np.random.randint(0,2,25)
-
-
-# In[42]:
-
-
 TC_model=load_model(r"TC_DNN.h5",compile=False)
-
-
-# In[45]:
-
-
 df=pd.read_csv(r'smi.csv')
 chromosome=df["chromosome"]
 selected_cor=pd.read_csv(r'select_keys.csv',index_col=0)
 selected_keys=np.array(selected_cor["key"])
 selected_Corr_df=np.array(selected_cor["Index"])
-
-
-# In[48]:
-
-
 pre_TC(x_arr,TC_model,selected_keys,chromosome,Smi=True)
-
+'''
