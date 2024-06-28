@@ -44,6 +44,10 @@ conda activate IDPoly
 - botorch(Bayesian optimization in PyTorch)[[Link]](https://github.com/pytorch/botorch)
 - RadonPy(automated physical property calculation using all-atom classical molecular dynamics simulations for polymer informatic)[[Link]](https://github.com/RadonPy/RadonPy)
 
+## Publications
+1. Huang, X., Zhao, C.Y., Wang, H., et al., AI-assisted inverse design of sequence-ordered high intrinsic thermal conductivity polymers[J]. Materials Today Physics. 2024: 101438. [[Link](https://doi.org/10.1016/j.mtphys.2024.101438)].
+2. Huang, X., Ju, S., Tutorial: AI-assisted exploration and active design of polymers with high intrinsic thermal conductivity[J]. Journal of Applied Physics. 2024, 135 (17):171101. [[Link](https://doi.org/10.1063/5.020152)].
+
 ## Attribution
 
 This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
