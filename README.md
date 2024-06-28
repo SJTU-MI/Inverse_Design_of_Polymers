@@ -46,7 +46,7 @@ conda activate IDPoly
 
 ## Publications
 1. Huang, X., Zhao, C.Y., Wang, H., et al., AI-assisted inverse design of sequence-ordered high intrinsic thermal conductivity polymers[J]. Materials Today Physics. 2024: 101438. [[Link](https://doi.org/10.1016/j.mtphys.2024.101438)].
-2. Huang, X., Ju, S., Tutorial: AI-assisted exploration and active design of polymers with high intrinsic thermal conductivity[J]. Journal of Applied Physics. 2024, 135 (17):171101. [[Link](https://doi.org/10.1063/5.020152)].
+2. Huang, X., Ju, S., Tutorial: AI-assisted exploration and active design of polymers with high intrinsic thermal conductivity[J]. Journal of Applied Physics. 2024, 135 (17):171101. [[Link](https://doi.org/10.1063/5.0201522)].
 
 ## Attribution
 
